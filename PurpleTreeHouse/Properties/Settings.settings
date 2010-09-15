@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PurpleTreeHouse.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UrlOrUnc" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://tlhan-ghun.de/Dev/testPurpleTreehouse.xml</Value>
+    </Setting>
+    <Setting Name="AppIcon" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ExampleAppIcon.png</Value>
+    </Setting>
+    <Setting Name="EnableSettings" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UpdateInterval" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="LastIdShown" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DefaultNotificationIcon" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ExampleNotificationIcon.png</Value>
+    </Setting>
+    <Setting Name="DefaultDisplayTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="DefaultNotificationClass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DefaultClass</Value>
+    </Setting>
+    <Setting Name="ListOfNotificationClasses" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DefaultClass;AlertClass to use</Value>
+    </Setting>
+    <Setting Name="AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PurpleTreehouse</Value>
+    </Setting>
+    <Setting Name="ShowErrorNotifications" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ResetAlreadySeenIds" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

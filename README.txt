@@ -1,5 +1,7 @@
 PurpleTreehouse is a Snarl (http://www.fullphat.net/) application which gives you the ability to use Snarl to subsribe to a central news provider. It uses a defined XML structure on the central location (either a network file path or a http address) to retrieve the news and displays to the local running Snarl application.
 
+When started you don't see it (only the registering with Snarl) and it will stay active until Snarl is stopped.
+
 It is configured by one config file next to the application executable. It contains the following parameters:
 
 UrlOrUnc: Address of the XML file (UNC, local path or http based)
